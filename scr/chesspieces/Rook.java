@@ -1,6 +1,9 @@
-package scr.chess;
+package scr.chesspieces;
+
 
 import scr.boardgame.Board;
+import scr.chess.ChessPiece;
+import scr.chess.Color;
 
 public class Rook extends ChessPiece{ //Torre
 
@@ -12,5 +15,4 @@ public class Rook extends ChessPiece{ //Torre
     public String toString(){
         return "R";
     }
-    
 }

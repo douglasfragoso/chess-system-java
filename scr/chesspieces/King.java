@@ -1,6 +1,8 @@
-package scr.chess;
+package scr.chesspieces;
 
 import scr.boardgame.Board;
+import scr.chess.ChessPiece;
+import scr.chess.Color;
 
 public class King extends ChessPiece{ //Rei
 
